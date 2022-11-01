@@ -1,0 +1,2 @@
+--- NMAP CHEATSHEET ---
+nmap -sC -sV IP
